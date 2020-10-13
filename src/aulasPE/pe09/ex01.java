@@ -10,5 +10,6 @@ public class ex01 {
     public static void Main(){
         System.out.println("Copa do mundo.");
         Main();
+
     }
 }
