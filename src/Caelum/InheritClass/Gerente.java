@@ -1,4 +1,4 @@
-package aulasPOO.InheritClass;
+package Caelum.InheritClass;
 
 /*
  A classe gerente herda todos os atribuitos e métodos da classe Funcionário

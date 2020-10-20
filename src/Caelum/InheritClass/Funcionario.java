@@ -1,4 +1,4 @@
-package aulasPOO.InheritClass;
+package Caelum.InheritClass;
 
 public class Funcionario {
     protected String nome;

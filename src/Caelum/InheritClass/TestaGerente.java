@@ -1,4 +1,4 @@
-package aulasPOO.InheritClass;
+package Caelum.InheritClass;
 /*
 
 A nomenclatura mais encontrada é que Funcionario é a superclasse de Gerente, e

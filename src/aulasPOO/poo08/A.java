@@ -10,7 +10,7 @@ class A {
 
 }
 
-class B extends A{
+class B extends A {
 
     public B() {
 
@@ -44,9 +44,9 @@ class D extends C {
 
 }
 
-class E extends D{
+class E extends D {
 
-    E(){
+    E() {
 
         System.out.println("Construtor E");
 
